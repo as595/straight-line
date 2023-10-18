@@ -1,2 +1,2 @@
-# straight-line.github.io
+# straight-line
 How to fit a straight line
